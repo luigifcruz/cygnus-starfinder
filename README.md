@@ -1,1 +1,4 @@
 # lyra-starfinder
+Work in Progress - Python script to estimate the position of starts based on photos from digital cameras. The script currently calculates the HFOV and VFOV of an image based on the automatically generated EXIF file. They aren't 100% accurate but they should work. After that, the apparent distance between stars is then calculated based on these field-of-view values. The distance is later on compared with the Hipparcos star catalog. 
+
+Feel free to contribute. If you have a question ask me on [Twitter](https://twitter.com/luigifcruz).
